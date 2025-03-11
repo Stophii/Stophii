@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Stophii
-- 👀 I’m interested in game creation, I am still new and inexperienced but I am passionate and motivated!
-- 🌱 I’m currently learning how to code in rust on turbo!
-- 💞️ I’m looking to collaborate on my current lifes work, creating my game Project S.H.E.L.L.
-- 📫 How to reach me my discord or my email! 
+- 👀 I’m interested in programming!
+- 🌱 I’m currently learning rust!
+- 💞️ I’m looking to collaborate on games!
+- 📫 Reach me on discord! 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I play a lot of FFXIV!
+- ⚡ Fun fact: I love Robots!
 
 <!---
 Stophii/Stophii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
